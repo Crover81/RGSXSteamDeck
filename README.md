@@ -1,7 +1,5 @@
 # 🎮 Retro Game Sets Xtra (RGSX) For Steam Deck
 
-A free, user-friendly ROM downloader for Batocera, Knulli, and RetroBat with multi-source support.
-
 This is an unofficial "One-Line" installer. It handles all the heavy lifting: downloads the latest RGSX version, sets up an isolated Python environment, and preps everything for Steam Gaming Mode.
 
 📂 Where to install
